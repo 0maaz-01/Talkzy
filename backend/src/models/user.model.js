@@ -24,8 +24,6 @@ const userSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-
-// We are naming the schema as User (singular), mongoose will automatically create a database named as users (plural) as it takes User from their and adds s in it.
 const User = mongoose.model("User", userSchema);
 
 export default User;
