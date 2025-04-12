@@ -73,17 +73,16 @@
 
 ### 💻 Desktop View
 
-<img src="https://github.com/your-username/talkzy/assets/Desktop-Chat.png" width="320" height="180">  
-<img src="https://github.com/your-username/talkzy/assets/User-List.png" width="320" height="180">  
-<img src="https://github.com/your-username/talkzy/assets/Auth-Page.png" width="320" height="180">
-
+<img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/HomePage.png" width="400" height="240">     <img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/Online.png" width="400" height="240">
+<br></br>
+<img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/ProfilePage.png" width="400" height="240">  <img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/ThemesPage.png" width="400" height="240">
+<br></br>
+<img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/RegisterPage.png" width="400" height="240">
  <br></br>
 
 ### 📱 Mobile View
 
-[<img src="https://github.com/your-username/talkzy/assets/Mobile-Chat.jpg" width="220" height="500">
-<img src="https://github.com/your-username/talkzy/assets/Mobile-Login.jpg" width="220" height="500">
-<img src="https://github.com/your-username/talkzy/assets/Mobile-Themes.jpg" width="220" height="500">]
+<img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/D.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/G.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/H.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/F.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/A.jpg" width="220" height="500"> <img src="https://github.com/0maaz-01/Talkzy/blob/main/Talkzy%20Pages/E.jpg" width="220" height="500">
 
 ---
 
@@ -139,9 +138,9 @@ npm install react-hot-toast
 We welcome contributions to **Talkzy**! Here's how you can help:
 
 1. Fork the repository  
-2. Create a new branch (`git checkout -b feature-name`)  
-3. Make your changes and commit (`git commit -m 'add feature'`)  
-4. Push to your forked branch (`git push origin feature-name`)  
+2. Create a new branch 
+3. Make your changes and commit   
+4. Push to your forked branch 
 5. Open a Pull Request
 
 ---
@@ -162,5 +161,3 @@ furnished to do so, subject to the following conditions:
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
 
 ---
-
-Want me to help generate badges, a project structure image, or an animated GIF showing how the chat works?
